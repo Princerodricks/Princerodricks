@@ -42,7 +42,9 @@ This GitHub is my open lab — where I grow, break things, and build the future.
 ---
 
 <!-- 🧬 Matrix Codeflow at bottom -->
-<img src="https://github.com/Princerodricks/Princerodricks/blob/main/assets/matrixflow.png" alt="Matrix Codeflow" />
+<p align="center">
+<img src="https://github.com/Princerodricks/Princerodricks/blob/main/matrixflow.png" alt="Matrix Codeflow" style="max-width: 100%;">
+</p>
 
 ---
 
