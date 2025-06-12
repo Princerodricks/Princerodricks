@@ -13,7 +13,7 @@ This GitHub is my open lab — where I grow, break things, and build the future.
 ---
 <!-- 📊 GitHub Dashboard -->
 <p align="center">
-<img src="https://github.com/Princerodricks/Princerodricks/blob/main/assets/dashboard.png" alt="Dashboard" />
+<img src="https://github.com/Princerodricks/Princerodricks/blob/main/dashboard.png" alt="Dashboard" style="max-width: 100%;">
 </p>
 
 ### 🔭 My Current Focus
