@@ -11,6 +11,8 @@ I have 0 coding background, but 100% dedication.
 This GitHub is my open lab — where I grow, break things, and build the future. 🌍
 
 ---
+<!-- 📊 GitHub Dashboard -->
+<img src="https://github.com/Princerodricks/Princerodricks/blob/main/assets/dashboard.png" alt="Dashboard" />
 
 ### 🔭 My Current Focus
 
@@ -34,6 +36,11 @@ This GitHub is my open lab — where I grow, break things, and build the future.
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter)
+
+---
+
+<!-- 🧬 Matrix Codeflow at bottom -->
+<img src="https://github.com/Princerodricks/Princerodricks/blob/main/assets/matrixflow.png" alt="Matrix Codeflow" />
 
 ---
 
