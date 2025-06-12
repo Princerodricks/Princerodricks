@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Princerodricks/Princerodricks/blob/main/profilr_repo_bannner.png" alt="AI Banner" style="max-width: 100%;">
+  <img src="https://github.com/Princerodricks/Princerodricks/blob/main/profile_repo_banner.png" alt="AI Banner" style="max-width: 100%;">
 </p>
 > <h1 align="center">Hey 👋, I'm Prince 👨‍🚀</h1>
 <h3 align="center">🚀 AI, LLMs, and Beyond — from Zero to Research</h3>
